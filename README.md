@@ -1,2 +1,4 @@
 # Simon-Cao
 All About Me
+- I love physics!
+- I love coding!
