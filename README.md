@@ -4,4 +4,3 @@ All About Me
 - I love coding!
 - I also love math!
 - I love source control!
-- I love making branches!
