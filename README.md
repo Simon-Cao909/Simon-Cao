@@ -17,7 +17,7 @@ Features:
 - Interactive visualization and continuum-fitting
 - Automatic modelling and data processing utilities
 
-### AdvKerasRegressor
+### SKGraphEstimator
 
 Flexible Keras wrapper combining modern deep learning architectures into Scikit-learn workflows
 
